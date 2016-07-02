@@ -1,1 +1,1 @@
-Indirizzo web del server,nome utente rabbitmq,password rabbitmq,Nome della coda
+server_address,rabbit_user,rabbit_pwd, queue_name
