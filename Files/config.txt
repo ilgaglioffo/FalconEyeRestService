@@ -1,0 +1,1 @@
+Indirizzo web del server,nome utente rabbitmq,password rabbitmq,Nome della coda
